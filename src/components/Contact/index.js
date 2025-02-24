@@ -144,7 +144,6 @@ const Contact = () => {
   const form = useRef();
 
   const handleSubmit = (e) => {
-    e.preventDefault();
     emailjs
       .sendForm('service_mkq2eos', 'template_unpyizc', form.current, 'x2c50s29ZTIXGndB1')
       .then(
