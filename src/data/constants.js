@@ -314,8 +314,7 @@ export const projects = [
       "Cri2.png",
     tags: ["React Native", "Animations"],
     category: "web app",
-    github: "https://github.com/rishavchanda/Whatsapp-Clone-React-Js",
-    webapp: "https://whatsapp-clone-rishav.web.app",
+    github: "",
   },
   {
     id: 10,
@@ -327,8 +326,7 @@ export const projects = [
       "GridGame.png",
     tags: ["HTML", "JavaScript", "CSS"],
     category: "android app",
-    github: "https://github.com/rishavchanda/Job-finder-App",
-    webapp: "https://github.com/rishavchanda/Job-finder-App",
+    github: "",
   },
 ];
 
